@@ -1,0 +1,13 @@
+body{
+    font-family: 'Poppins', sans-serif;
+
+}
+.banner{
+    background-image: url(/portfolio/Black\ and\ White\ Business\ \ Question\ Facebook\ Post.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 150px 0;
+}
+.skills-padding{
+    padding: 70px 0;
+}
